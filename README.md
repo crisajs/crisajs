@@ -2,27 +2,29 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=32&duration=3500&pause=1200&color=A5B4FC&center=true&vCenter=true&width=720&height=60&lines=Cristiano+Anjos;Software+Engineer+%C2%B7+Product+Builder" alt="Cristiano Anjos" />
+<img src="assets/hero.svg" alt="Cristiano Anjos — Software Engineer · Product Builder" width="760"/>
 
 <br/>
 
 **I build digital products end to end — from the first diagram to production.**
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/cristiano-anjos-68a0a4208/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:way4bgfj@anonaddy.com"><img src="https://img.shields.io/badge/Email-Contact-1F2937?style=flat-square&logo=minutemailer&logoColor=white" alt="Email"/></a>
-&nbsp;
-<a href="https://github.com/crisajs?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-6366F1?style=flat-square&logo=github&logoColor=white" alt="Repositories"/></a>
+<a href="https://www.linkedin.com/in/cristiano-anjos-68a0a4208/"><img src="https://img.shields.io/badge/LinkedIn-Connect-18181B?style=flat-square&logo=linkedin&logoColor=A5B4FC" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="mailto:way4bgfj@anonaddy.com"><img src="https://img.shields.io/badge/Email-Contact-18181B?style=flat-square&logo=minutemailer&logoColor=A5B4FC" alt="Email"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/crisajs?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-18181B?style=flat-square&logo=github&logoColor=A5B4FC" alt="Repositories"/></a>
 
 <br/><br/>
 
----
+<img src="assets/divider.svg" alt="" width="760"/>
 
 </div>
 
-## About
+<br/>
+
+<img src="assets/section-about.svg" alt="About" width="760"/>
 
 I'm a software engineer based in São Paulo. Most of my work starts the same way: someone has a real problem, and I figure out how to solve it with software — then I build it, ship it, and keep it running.
 
@@ -30,63 +32,67 @@ Lately that has meant a lot of WhatsApp automation, AI integrations and educatio
 
 I like clean architecture, good docs and small teams that ship.
 
-<br/>
+<br/><br/>
 
-## Tech Stack
+<img src="assets/section-stack.svg" alt="Tech Stack" width="760"/>
 
 | | |
 |---|---|
-| **Languages** | JavaScript · TypeScript · Python · SQL |
-| **Backend** | Node.js · Express · REST APIs · Webhooks · RabbitMQ |
-| **Frontend** | React · TanStack · Tailwind CSS · Vite |
-| **AI** | Claude · LLM integrations · conversational bots |
-| **Data** | PostgreSQL · MongoDB · Supabase |
-| **Automation** | WhatsApp Cloud API · N8N · node-cron · Chatwoot |
-| **Infra** | Vercel · Docker · PM2 · GitHub Actions |
+| **Languages** | `JavaScript` `TypeScript` `Python` `SQL` |
+| **Backend** | `Node.js` `Express` `REST APIs` `Webhooks` `RabbitMQ` |
+| **Frontend** | `React` `TanStack` `Tailwind CSS` `Vite` |
+| **AI** | `Claude` `LLM integrations` `conversational bots` |
+| **Data** | `PostgreSQL` `MongoDB` `Supabase` |
+| **Automation** | `WhatsApp Cloud API` `N8N` `node-cron` `Chatwoot` |
+| **Infra** | `Vercel` `Docker` `PM2` `GitHub Actions` |
 
-<br/>
+<br/><br/>
 
-## Products
+<img src="assets/section-products.svg" alt="Products" width="760"/>
 
 Things I've built and actually run — with users, deploys and support.
 
-<table>
+<br/>
+
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 
-### CareConnect
+<h3 align="center">CareConnect</h3>
+
+<p align="center"><sub><code>Node.js</code> <code>WhatsApp Cloud API</code> <code>MongoDB</code></sub></p>
 
 A caregiver training course that runs entirely inside WhatsApp: one lesson a day, a quiz after each one, certificate at the end. Approved on Meta's official Cloud API.
 
-`Node.js` `WhatsApp Cloud API` `MongoDB`
-
-**Status:** live
+<p align="center"><sub>◦ &nbsp;status: live</sub></p>
 
 </td>
 <td width="33%" valign="top">
 
-### Tekniva
+<h3 align="center">Tekniva</h3>
+
+<p align="center"><sub><code>Full-stack</code> <code>AI</code> <code>Automation</code></sub></p>
 
 My software house. Custom development, AI and automation for companies that need something built properly — from discovery to deploy.
 
-`Full-stack` `AI` `Automation`
-
-**Status:** operating
+<p align="center"><sub>◦ &nbsp;status: operating</sub></p>
 
 </td>
 <td width="33%" valign="top">
 
-### Salvamos o Seu PC
+<h3 align="center">Salvamos o Seu PC</h3>
+
+<p align="center"><sub><code>Infrastructure</code> <code>Support</code></sub></p>
 
 Tech support and maintenance for people and small businesses. Less glamorous than AI, but somebody has to keep the machines running.
 
-`Infrastructure` `Support`
-
-**Status:** operating
+<p align="center"><sub>◦ &nbsp;status: operating</sub></p>
 
 </td>
 </tr>
 </table>
+
+<br/>
 
 <details>
 <summary><b>In the pipeline</b></summary>
@@ -94,23 +100,21 @@ Tech support and maintenance for people and small businesses. Less glamorous tha
 
 | Project | What it is | Stage |
 |---|---|---|
-| **[ordus](https://github.com/crisajs/ordus)** | Shows small business owners how much money disorganization is costing them | in development |
-| **[jiu-flow](https://github.com/crisajs/jiu-flow)** | Management platform + site for a Jiu-Jitsu school in Taboão da Serra | in development |
-| **Starmate** | Lead generation for sales teams | research |
+| **[ordus](https://github.com/crisajs/ordus)** | Shows small business owners how much money disorganization is costing them | `in development` |
+| **[jiu-flow](https://github.com/crisajs/jiu-flow)** | Management platform + site for a Jiu-Jitsu school in Taboão da Serra | `in development` |
+| **Starmate** | Lead generation for sales teams | `research` |
 
 </details>
 
-<br/>
+<br/><br/>
 
-## Social Impact
+<img src="assets/section-impact.svg" alt="Social Impact" width="760"/>
 
 <div align="center">
 
 <br/>
 
-### Instituto Saber & Cuidar
-
-<br/>
+<h3>Instituto Saber & Cuidar</h3>
 
 </div>
 
@@ -120,50 +124,54 @@ I coordinate the institute and built its technology from scratch — the same Wh
 
 Of everything I work on, this is the project I'm proudest of.
 
-<br/>
+<br/><br/>
 
-## Labs
+<img src="assets/section-labs.svg" alt="Labs" width="760"/>
 
 Things I keep experimenting with, some of which become products:
 
-`AI & LLMs` · `conversational agents` · `WhatsApp automation` · `API design` · `microservices` · `system design` · `developer tools`
-
-<br/>
-
-## How I build
-
-<table>
-<tr>
-<td width="25%" align="center"><br/><b>Architecture first</b><br/><sub>Diagram before code, decisions written down</sub><br/><br/></td>
-<td width="25%" align="center"><br/><b>Boring where it counts</b><br/><sub>Proven tools, no hype-driven rewrites</sub><br/><br/></td>
-<td width="25%" align="center"><br/><b>Small and shipped</b><br/><sub>A working v1 beats a perfect backlog</sub><br/><br/></td>
-<td width="25%" align="center"><br/><b>Built to operate</b><br/><sub>Logs, CI and deploy from day one</sub><br/><br/></td>
-</tr>
-</table>
-
-<br/>
-
-## Now
-
-Building **ordus** and growing the **Instituto Saber & Cuidar**. If either of those sounds interesting, my inbox is open.
-
-<br/>
-
 <div align="center">
 
----
-
 <br/>
 
-*Good software creates business value. Good technology changes lives.*
-
-<br/>
-
----
+<code>AI & LLMs</code>&nbsp; <code>conversational agents</code>&nbsp; <code>WhatsApp automation</code>&nbsp; <code>API design</code>&nbsp; <code>microservices</code>&nbsp; <code>system design</code>&nbsp; <code>developer tools</code>
 
 </div>
 
-## GitHub
+<br/><br/>
+
+<img src="assets/section-build.svg" alt="How I build" width="760"/>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><br/><b>Architecture first</b><br/><br/><sub>Diagram before code,<br/>decisions written down</sub><br/><br/></td>
+<td width="25%" align="center"><br/><b>Boring where it counts</b><br/><br/><sub>Proven tools,<br/>no hype-driven rewrites</sub><br/><br/></td>
+<td width="25%" align="center"><br/><b>Small and shipped</b><br/><br/><sub>A working v1 beats<br/>a perfect backlog</sub><br/><br/></td>
+<td width="25%" align="center"><br/><b>Built to operate</b><br/><br/><sub>Logs, CI and deploy<br/>from day one</sub><br/><br/></td>
+</tr>
+</table>
+
+<br/><br/>
+
+<img src="assets/section-now.svg" alt="Now" width="760"/>
+
+Building **[ordus](https://github.com/crisajs/ordus)** and growing the **Instituto Saber & Cuidar**. If either of those sounds interesting, my inbox is open.
+
+<br/><br/>
+
+<div align="center">
+
+<img src="assets/quote.svg" alt="Good software creates business value. Good technology changes lives." width="760"/>
+
+</div>
+
+<br/>
+
+<img src="assets/section-github.svg" alt="GitHub" width="760"/>
+
+<br/>
 
 <div align="center">
 
@@ -175,13 +183,13 @@ Building **ordus** and growing the **Instituto Saber & Cuidar**. If either of th
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=crisajs&bg_color=00000000&color=9CA3AF&line=6366F1&point=A5B4FC&hide_border=true&area=true" width="92%" alt="Contribution graph" />
 
-</div>
+<br/><br/>
+
+<img src="assets/divider.svg" alt="" width="760"/>
 
 <br/>
 
-<div align="center">
-
-<sub>São Paulo, Brazil · <a href="https://www.linkedin.com/in/cristiano-anjos-68a0a4208/">LinkedIn</a> · <a href="mailto:way4bgfj@anonaddy.com">way4bgfj@anonaddy.com</a></sub>
+<sub>São Paulo, Brazil &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/cristiano-anjos-68a0a4208/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:way4bgfj@anonaddy.com">way4bgfj@anonaddy.com</a></sub>
 
 <br/><br/>
 
