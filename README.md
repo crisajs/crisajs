@@ -146,16 +146,10 @@ Things I keep experimenting with, some of which become products:
 
 <table width="100%">
 <tr>
-<td align="center"><img src="assets/pixel.svg" width="185" height="1" alt=""/></td>
-<td align="center"><img src="assets/pixel.svg" width="185" height="1" alt=""/></td>
-<td align="center"><img src="assets/pixel.svg" width="185" height="1" alt=""/></td>
-<td align="center"><img src="assets/pixel.svg" width="185" height="1" alt=""/></td>
-</tr>
-<tr>
-<td width="25%" align="center"><br/><b>Architecture first</b><br/><br/><sub>Diagram before code,<br/>decisions written down</sub><br/><br/></td>
-<td width="25%" align="center"><br/><b>Boring where it counts</b><br/><br/><sub>Proven tools,<br/>no hype-driven rewrites</sub><br/><br/></td>
-<td width="25%" align="center"><br/><b>Small and shipped</b><br/><br/><sub>A working v1 beats<br/>a perfect backlog</sub><br/><br/></td>
-<td width="25%" align="center"><br/><b>Built to operate</b><br/><br/><sub>Logs, CI and deploy<br/>from day one</sub><br/><br/></td>
+<td width="25%" align="center"><br/><b>Architecture first</b><br/><br/><sub>Diagram before code,<br/>decisions written down</sub><br/><br/><img src="assets/pixel.svg" width="185" height="1" alt=""/></td>
+<td width="25%" align="center"><br/><b>Boring where it counts</b><br/><br/><sub>Proven tools,<br/>no hype-driven rewrites</sub><br/><br/><img src="assets/pixel.svg" width="185" height="1" alt=""/></td>
+<td width="25%" align="center"><br/><b>Small and shipped</b><br/><br/><sub>A working v1 beats<br/>a perfect backlog</sub><br/><br/><img src="assets/pixel.svg" width="185" height="1" alt=""/></td>
+<td width="25%" align="center"><br/><b>Built to operate</b><br/><br/><sub>Logs, CI and deploy<br/>from day one</sub><br/><br/><img src="assets/pixel.svg" width="185" height="1" alt=""/></td>
 </tr>
 </table>
 
