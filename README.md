@@ -146,6 +146,12 @@ Things I keep experimenting with, some of which become products:
 
 <table width="100%">
 <tr>
+<td align="center"><img src="assets/pixel.svg" width="185" height="1" alt=""/></td>
+<td align="center"><img src="assets/pixel.svg" width="185" height="1" alt=""/></td>
+<td align="center"><img src="assets/pixel.svg" width="185" height="1" alt=""/></td>
+<td align="center"><img src="assets/pixel.svg" width="185" height="1" alt=""/></td>
+</tr>
+<tr>
 <td width="25%" align="center"><br/><b>Architecture first</b><br/><br/><sub>Diagram before code,<br/>decisions written down</sub><br/><br/></td>
 <td width="25%" align="center"><br/><b>Boring where it counts</b><br/><br/><sub>Proven tools,<br/>no hype-driven rewrites</sub><br/><br/></td>
 <td width="25%" align="center"><br/><b>Small and shipped</b><br/><br/><sub>A working v1 beats<br/>a perfect backlog</sub><br/><br/></td>
@@ -175,9 +181,7 @@ Building **[ordus](https://github.com/crisajs/ordus)** and growing the **Institu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=crisajs&show_icons=true&hide_border=true&theme=transparent&title_color=A5B4FC&icon_color=6366F1&text_color=9CA3AF" height="165" alt="GitHub stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisajs&layout=compact&hide_border=true&theme=transparent&title_color=A5B4FC&text_color=9CA3AF" height="165" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=crisajs&hide_border=true&background=00000000&ring=6366F1&fire=818CF8&currStreakNum=A5B4FC&currStreakLabel=A5B4FC&sideNums=9CA3AF&sideLabels=9CA3AF&dates=6B7280&stroke=6366F133" height="170" alt="Contribution streak" />
 
 <br/><br/>
 
