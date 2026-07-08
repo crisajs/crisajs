@@ -108,6 +108,60 @@ Tech support and maintenance for people and small businesses. Less glamorous tha
 
 <br/><br/>
 
+<img src="assets/section-experience.svg" alt="Experience" width="760"/>
+
+<div align="center">
+
+<br/>
+
+<h3>Software Engineer · Product & Platform Development</h3>
+
+<sub><b>Carmem Concierge de Cuidados</b> &nbsp;·&nbsp; HealthTech / CareTech startup &nbsp;·&nbsp; <a href="https://www.acarmem.com">acarmem.com</a></sub>
+
+<br/><br/>
+
+</div>
+
+A Brazilian startup connecting families to hospital companions and elderly caregivers — digitalizing how home care is hired and managed.
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Product & Engineering**
+
+- Idealized and built the startup's digital platform
+- Institutional website focused on UX, conversion and credibility
+- Software architecture and technical structure of the platform
+- Requirements gathering and functional documentation (SRS)
+- UX, digital identity and product evolution
+
+</td>
+<td width="50%" valign="top">
+
+**Strategy & Operations**
+
+- New products for the ecosystem: marketplace for elderly care, course platform (Instituto Saber & Cuidar), caregiver operations system, smart family–professional matching
+- Internal processes with Google Workspace, automations and dashboards
+- WhatsApp automations for support and recruiting
+- Digital transformation and scalability strategy
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+<sub><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Google Workspace</code> <code>Power BI</code> <code>Figma</code> <code>Git</code> <code>API Integration</code> <code>WhatsApp Business</code></sub>
+
+</div>
+
+<br/><br/>
+
 <img src="assets/section-impact.svg" alt="Social Impact" width="760"/>
 
 <div align="center">
