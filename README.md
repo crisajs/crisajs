@@ -4,8 +4,8 @@
 
 **I build digital products end-to-end — from architecture to launch.**
 
-[![Email](https://img.shields.io/badge/Email-cristianoanjossant%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cristianoanjossant@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/crisajs?style=flat-square&color=6366F1)](https://github.com/crisajs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristiano%20Anjos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristiano-anjos-68a0a4208/)
+[![Email](https://img.shields.io/badge/Email-way4bgfj%40anonaddy.com-6366F1?style=flat-square&logo=maildotru&logoColor=white)](mailto:way4bgfj@anonaddy.com)
 
 </div>
 
@@ -13,10 +13,11 @@
 
 ### About
 
+- 🏛️ **Coordinator at Instituto Saber & Cuidar** (São Paulo, Brazil) — leading the institute's entire technology operation
 - 🔭 Currently building **CareConnect** — a WhatsApp-native learning platform for professional caregivers
 - 🧠 Focused on **automation, conversational AI, and product engineering**
 - 🚀 Turning dozens of documented project ideas into shipped products
-- 📍 Brazil · Open to remote opportunities worldwide
+- 📍 São Paulo, Brazil · Open to remote opportunities worldwide
 
 ### Tech Stack
 
