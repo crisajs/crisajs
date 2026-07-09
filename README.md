@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="assets/hero.svg?v=3" alt="Cristiano Anjos — Software Engineer · Product Builder" width="760"/>
+<img src="assets/hero.svg?v=2" alt="Cristiano Anjos — Software Engineer · Product Builder" width="760"/>
 
 <br/>
 
@@ -38,13 +38,13 @@ I like clean architecture, good docs and small teams that ship.
 
 | | |
 |---|---|
-| **Languages** | `JavaScript` `TypeScript` `Python` `SQL` |
-| **Backend** | `Node.js` `Express` `REST APIs` `Webhooks` `RabbitMQ` |
-| **Frontend** | `React` `TanStack` `Tailwind CSS` `Vite` |
-| **AI** | `Claude` `LLM integrations` `conversational bots` |
-| **Data** | `PostgreSQL` `MongoDB` `Supabase` |
-| **Automation** | `WhatsApp Cloud API` `N8N` `node-cron` `Chatwoot` |
-| **Infra** | `Vercel` `Docker` `PM2` `GitHub Actions` |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6) ![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=3776AB) ![SQL](https://img.shields.io/badge/SQL-18181B?style=flat-square&logo=postgresql&logoColor=9CA3AF) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-18181B?style=flat-square) ![Webhooks](https://img.shields.io/badge/Webhooks-18181B?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-18181B?style=flat-square&logo=rabbitmq&logoColor=FF6600) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB) ![TanStack](https://img.shields.io/badge/TanStack-18181B?style=flat-square&logo=reactquery&logoColor=FF4154) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Vite](https://img.shields.io/badge/Vite-18181B?style=flat-square&logo=vite&logoColor=646CFF) |
+| **AI** | ![Claude](https://img.shields.io/badge/Claude-18181B?style=flat-square&logo=claude&logoColor=D97757) ![LLM integrations](https://img.shields.io/badge/LLM%20integrations-18181B?style=flat-square) ![Conversational bots](https://img.shields.io/badge/conversational%20bots-18181B?style=flat-square) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1) ![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=47A248) ![Supabase](https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=3FCF8E) |
+| **Automation** | ![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp%20Cloud%20API-18181B?style=flat-square&logo=whatsapp&logoColor=25D366) ![N8N](https://img.shields.io/badge/N8N-18181B?style=flat-square&logo=n8n&logoColor=EA4B71) ![node-cron](https://img.shields.io/badge/node--cron-18181B?style=flat-square) ![Chatwoot](https://img.shields.io/badge/Chatwoot-18181B?style=flat-square&logo=chatwoot&logoColor=1F93FF) |
+| **Infra** | ![Vercel](https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED) ![PM2](https://img.shields.io/badge/PM2-18181B?style=flat-square&logo=pm2&logoColor=8B5CF6) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-18181B?style=flat-square&logo=githubactions&logoColor=2088FF) |
 
 <br/><br/>
 
