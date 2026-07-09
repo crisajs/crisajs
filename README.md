@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="assets/hero.svg?v=2" alt="Cristiano Anjos — Software Engineer · Product Builder" width="760"/>
+<img src="assets/hero.svg?v=3" alt="Cristiano Anjos — Software Engineer · Product Builder" width="760"/>
 
 <br/>
 
