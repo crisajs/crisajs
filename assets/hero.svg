@@ -13,13 +13,13 @@
 <ellipse cx="380" cy="95" rx="330" ry="95" fill="url(#glow)">
 <animate attributeName="opacity" values="0.7;1;0.7" dur="6s" repeatCount="indefinite"/>
 </ellipse>
-<text x="380" y="102" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="600" letter-spacing="-1.5" fill="url(#name)">Cristiano Anjos
+<text x="385" y="100" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="34" font-weight="500" letter-spacing="10" fill="url(#name)">CRISTIANO ANJOS
 <animate attributeName="opacity" from="0" to="1" dur="1.1s" fill="freeze"/>
 </text>
-<rect x="230" y="132" width="300" height="1" fill="url(#hair)">
+<rect x="230" y="130" width="300" height="1" fill="url(#hair)">
 <animate attributeName="opacity" from="0" to="1" dur="1.6s" begin="0.4s" fill="freeze"/>
 </rect>
-<text x="380" y="162" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="500" letter-spacing="4.5" fill="#9CA3AF" opacity="0">SOFTWARE ENGINEER&#160;&#160;&#183;&#160;&#160;PRODUCT BUILDER
+<text x="383" y="162" text-anchor="middle" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="500" letter-spacing="4.5" fill="#9CA3AF" opacity="0">SOFTWARE ENGINEER&#160;&#160;&#183;&#160;&#160;PRODUCT BUILDER
 <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.5s" fill="freeze"/>
 </text>
 </svg>
