@@ -56,7 +56,7 @@ Things I've built and actually run — with users, deploys and support.
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <h3 align="center">CareConnect</h3>
 
@@ -66,8 +66,10 @@ A caregiver training course that runs entirely inside WhatsApp: one lesson a day
 
 <p align="center"><sub>◦ &nbsp;status: live</sub></p>
 
+<img src="assets/pixel.svg" width="375" height="1" alt=""/>
+
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <h3 align="center">Tekniva</h3>
 
@@ -77,16 +79,7 @@ My software house. Custom development, AI and automation for companies that need
 
 <p align="center"><sub>◦ &nbsp;status: operating</sub></p>
 
-</td>
-<td width="33%" valign="top">
-
-<h3 align="center">Salvamos o Seu PC</h3>
-
-<p align="center"><sub><code>Infrastructure</code> <code>Support</code></sub></p>
-
-Tech support and maintenance for people and small businesses. Less glamorous than AI, but somebody has to keep the machines running.
-
-<p align="center"><sub>◦ &nbsp;status: operating</sub></p>
+<img src="assets/pixel.svg" width="375" height="1" alt=""/>
 
 </td>
 </tr>
