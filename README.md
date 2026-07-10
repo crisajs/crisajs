@@ -62,7 +62,7 @@ Things I've built and actually run — with users, deploys and support.
 
 <p align="center"><sub><code>Node.js</code> <code>WhatsApp Cloud API</code> <code>MongoDB</code></sub></p>
 
-A caregiver training course that runs entirely inside WhatsApp: one lesson a day, a quiz after each one, certificate at the end. Approved on Meta's official Cloud API.
+**Brazil's first elderly-caregiver course delivered 100% inside WhatsApp** — possibly the world's first, but no one has been brave enough to check. One lesson a day, a quiz after each one, certificate at the end. Approved on Meta's official Cloud API.
 
 <p align="center"><sub>◦ &nbsp;status: live</sub></p>
 
