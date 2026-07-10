@@ -222,11 +222,7 @@ Building **[ordus](https://github.com/crisajs/ordus)** and growing the **Institu
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=crisajs&hide_border=true&background=00000000&ring=6366F1&fire=818CF8&currStreakNum=A5B4FC&currStreakLabel=A5B4FC&sideNums=9CA3AF&sideLabels=9CA3AF&dates=6B7280&stroke=6366F133" height="170" alt="Contribution streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=crisajs&bg_color=00000000&color=9CA3AF&line=6366F1&point=A5B4FC&hide_border=true&area=true" width="92%" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=crisajs&bg_color=00000000&color=9CA3AF&line=6366F1&point=A5B4FC&hide_border=true&area=true" width="96%" alt="Contribution graph" />
 
 <br/><br/>
 
